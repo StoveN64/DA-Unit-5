@@ -13,7 +13,7 @@
 ## Basics of Visual Perception
 
 Order:
-- The order in which items are preceived, for graphs this an be sporadic, so there needs to be care in building them.
+- The order in which items are perceived, for graphs this an be sporadic, so there needs to be care in building them.
 
 Hierarchy:
 - The eye tends to be drawn towards brighter colors, so you can highlight specific items in such a way that every element fits into part of a story, for instance adding a vertical line in a graph draws the attention to each side of the graph, so pay attention to how the line attracts attention, and make sure it fits in with the context of the story you want your data to tell.
@@ -25,7 +25,7 @@ Relationships:
 - Humans tend to tell stories that relate things which are together on a graph. We like to form patterns and do so naturally. Presenting data together on a graph will naturally lead viewers to connect them in their heads, don't present false relationships.
 
 Convention:
-- General or agreed upon stling preferences in the industry.
+- General or agreed upon styling preferences in the industry.
 
 Understanding these items can be used to highlight the important data you want to convey, and help you avoid conveying things you don't want to convey.
 
@@ -50,7 +50,7 @@ Geographical charts:
 - A generally bad choice, but color pallets like warm_cool can be used to highlight numerical differences across boundaries.
 
 Measuring a target: 
-- A simple gauge, can look a bit like a thermometer, or a speed gauge, and those are ergonimically optimal measuring devices, so people have plenty of practicec reading them which aids your communication.
+- A simple gauge, can look a bit like a thermometer, or a speed gauge, and those that are optimal measuring devices.
 
 Showing Outliers: 
 -A table is good for this you can color in certain cells to highlight the big outliers.
