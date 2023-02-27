@@ -2,7 +2,7 @@
 
 ## Learn Effective Data Communication
 
-*Three Principles of Effective Data Communication:
+*Three Principles of Effective Data Communication:*
 
 Clear - Concise and uncluttered
 
