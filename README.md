@@ -58,3 +58,23 @@ Showing Outliers:
 Understanding these lets you communicate effectively. If you're analysis is good but your presentation is unclear important points may not be communicated.
 
 It is easy to lie with statistics. It is hard to tell the truth without it.
+
+## Decluttering Visualizations
+
+Visualization clutter: 
+- Too much info/lines/data in the graph that muddles up the clarity
+
+Main components of a graph:
+1. Data: Axis/Axes and labels for them. 
+2. Legend: Guide to help explain items on the graph.
+3. Title: Label that is showing what's being plotted.
+
+Three techniques to make data visualization more clear:
+
+1. Maximize white space
+2. Picking the correct graph
+3. Similar graph grouping
+
+How can color affect the way your visualizations are understood?:
+
+- Contrasts can highlight changes in slope, or easily distinguish highly different items. You can also use "close" colors to group things together in a viewers mind. Also normal conventions for green=good and red=bad or hot can be used to highlight things.
