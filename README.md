@@ -1,5 +1,7 @@
 # DA-Unit-5
-1 Explain 3 principles of data communication
+
+# 1 Explain 3 principles of data communication
+
 The Main goal is to Clearly and effectively communicate information
 
 Clear - Uncluttered concise, you can see the point that the graph maker is trying to make, and see how independent variables line up with dependent ones, or two graphs move in tandem.
