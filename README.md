@@ -4,11 +4,11 @@
 
 *Three Principles of Effective Data Communication:*
 
-Clear - Concise and uncluttered
+1. Clear - Concise and uncluttered
 
-Easy to Understand - Can see the point of the graphs
+2. Easy to Understand - Can see the point of the graphs
 
-Tells a Story- Shows the data in a way the viewer can see and understand, in a meaningful way.
+3. Tells a Story- Shows the data in a way the viewer can see and understand, in a meaningful way.
 
 ## Basics of Visual Perception
 
