@@ -1,35 +1,15 @@
 # DA-Unit-5
 
-# 1 Explain 3 principles of data communication
+# Learn Effective Data Communication
 
-The Main goal is to Clearly and effectively communicate information
+--Three Principles of Effective Data Communication:
 
-Clear - Uncluttered concise, you can see the point that the graph maker is trying to make, and see how independent variables line up with dependent ones, or two graphs move in tandem.
+Clear - Concise and uncluttered
 
-Easy to Understand, at a glance you can tell categories, and see what is what. Good contrasts for different plots on the same graph, good labeling, avoid giving a distorted picture to the viewer.
+Easy to Understand - Can see the point of the graphs
 
-Tells a Story, your data shows something happening that's important for the viewer to understand, so for instance a line plot of sales per quarter would highlight a sharp dip and include a % change as a sidebar for the viewer. Anything where the presentation of the data makes a point for the person looking at the graph.
+Tells a Story- Shows the data in a way the viewer can see and understand, in a meaningful way.
 
-Notes
-Don't Distort the Data. For instance don't distort axes or scales to make something small seem larger than it is.
-Encourage the Eye to compare different Data. If you think there's a relationship between two pieces of data plot the lines together so you their motion in relation to each other is clear.
-
-Notes
-Basic Principles
-Clear,
-Easy to understand,
-Has an impact onthe viewer, tells a story
-Specific Principles
-Show the data,
-think about substance not methods,
-don't distort,
-present many numbers in a small space.
-Make Large Datasets coherent,
-Encourage the Eye to comprre different pieces of data.
-Reveal the data t several levels of detail, from a broad overview to the fine structure,
-serve a reasonably clear purposes: description exploration tabulation or decoration.
-Be closely integrated with the statistical and verbal descriptions of a data set.
-2 Basic Principles of Visual Perception
 Order
 The order in which items are preceived, in text this follows standard practices, but in viewing graphs it can be random and sporadic, so each element of the graph needs to be comprehensible on its own to help a viewer flow from first viewing to complete understanding. Also in general people don't remember every item they see, only the first 2 or 3 items, so trying to draw the eye to the important information through color choice helps your message last longer in the mind.
 
