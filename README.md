@@ -77,4 +77,4 @@ Three techniques to make data visualization more clear:
 
 How can color affect the way your visualizations are understood?:
 
-- Contrasts can highlight changes in slope, or easily distinguish highly different items. You can also use "close" colors to group things together in a viewers mind. Also normal conventions for green=good and red=bad or hot can be used to highlight things.
+- Contrasts can highlight changes in slope, or easily distinguish highly different items, especially with using 'close-colors'.
